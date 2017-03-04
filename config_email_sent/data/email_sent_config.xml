@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<odoo>
+    <data noupdate="1">
+
+         <record id="hq_config_can_sent_email" model="ir.config_parameter">
+            <field name="key">can_sent_email</field>
+            <field name="value">false</field>
+        </record>
+
+    </data>
+</odoo>
